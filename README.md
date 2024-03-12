@@ -1,0 +1,1 @@
+the weather data available for Australia region. We would like you to review the dataset and apply your analytical skills to understand the data set in terms quality, potential issues, features considered critical for predicting rainfall for a given day, etc. Please do elaborate on any model which you would consider for the task, and its interpretation from a business context.
